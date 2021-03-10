@@ -1,0 +1,19 @@
+# Copy this file and rename it to settings.py
+# Fill the Twitter application data by submitting a request for creating a Developer Account to this URL:
+# https://developer.twitter.com/en/apply-for-access
+
+TWITTER = {
+    'CONSUMER_KEY': '',
+    'CONSUMER_SECRET': '',
+    'ACCESS_TOKEN': '',
+    'ACCESS_SECRET': '',
+}
+
+SOCKET = {
+    'HOST': '127.0.0.1',
+    'PORT': 9000,
+}
+
+ANALYSIS = {
+    'TWEET_EOL': 'end_of_tweet',
+}
