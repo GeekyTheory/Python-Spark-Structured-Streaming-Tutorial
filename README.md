@@ -2,6 +2,13 @@
 
 ## Setup the project
 
+Configure a virtual environment:
+
+```shell
+python -m venv venv
+source venv/bin/activate
+```
+
 Install the requirements:
 
 ```shell
