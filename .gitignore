@@ -6,6 +6,10 @@ __pycache__/
 # Config
 settings.py
 
+# Results
+analysis_output
+checkpoint
+
 # intellij
 .idea
 
